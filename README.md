@@ -3,16 +3,71 @@
 Logo criado para a Universidade que consiste no desenho de um capelo, o nome da universidade e uma caneta sublinhando esse nome.
 
 ## Índice
-* [Título e imagem de capa](#Título-e-Imagem-de-capa)
-* [Índice](##índice)
-* [Descrição do Projeto](##descrição-do-projeto)
-* [Diagramas de Casos de Uso](##diagrama-de-casos-de-uso)
-* [Descrição dos Cenários](##descrição-dos-cenários)
-* [Diagramas de Classes](##diagrama-de-classes)
-* [Protótipo de Interface](##protótipo-de-interface)
-* [Autores do Projeto](##autores-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Diagramas de Casos de Uso](#diagrama-de-casos-de-uso)
+* [Descrição dos Cenários](#descrição-dos-cenários)
+* [Diagramas de Classes](#diagrama-de-classes)
+* [Protótipo de Interface](#protótipo-de-interface)
+* [Autores do Projeto](#autores-do-projeto)
 
 ## Descrição do Projeto
+SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC
+CURSO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+
+PROJETO INTEGRADOR III: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+Professor Anderson Clayton Garcia Lopes
+
+TRABALHO PARA APROVAÇÃO EM DISCIPLINA
+EAD - ENSINO À DISTÂNCIA - 2025
+
+### Enunciado 1
+Para um(a) desenvolvedor(a)/engenheiro(a) de software, um software pode seguir orientações formalizadas com a Linguagem Unificada de Modelagem (UML).
+A UML permite que desenvolvedores visualizem o que foi projetado em diagramas padronizados, facilitando o entendimento por todos da equipe.
+
+
+A primeira entrega do PI consiste no processo de modelagem de um sistema Orientado a Objetos, voltado a gestão de dados de uma grande universidade.
+Essa modelagem deve ser feita utilizando os conhecimentos sobre UML que foram adquiridos na disciplina de Análise de Sistemas.
+Os diagramas devem representar o cadastro de diferentes tipos de pessoas que vão interagir com esse sistema:
+
+1) O grupo precisará desenvolver um diagrama de caso de uso que represente os seguintes cenário (1 página):
+Cadastro de Pessoa Física
+Cadastro de Pessoa Jurídica
+Cadastro de Professores
+Cadastro de Fornecedores
+Cadastro de Alunos
+
+
+2) O grupo deve elaborar a descrição dos cenários dos casos de uso construídos, levando em consideração um cenário principal, dois cenários alternativos, pré-condição e pós-condição (até 5 páginas).
+
+3) Elaborar um diagrama de classe que esteja de acordo com a proposta de projeto. Esse diagrama deve conter pelo menos 5 classes desenvolvidas (1 página).
+
+### Enunciado 2
+Texto base:
+Para um (a) desenvolvedor (a) /engenheiro (a) de software um software, ele (a) pode seguir orientações formalizadas com a Linguagem Unificada de Modelagem (UML). Ela, a UML, permite que desenvolvedores visualizem o que foi projetado em diagramas padronizados, facilitando o entendimento por todos da equipe.
+ 
+Enunciado:
+A segunda entrega do PI será a prototipação do que foi formalizado na primeira entrega.
+O protótipo deve refletir a modelagem realizada anteriormente, portanto,
+ 
+1). O grupo precisará desenvolver os protótipos da interface do sistema, de acordo com os diagramas de caso de uso que foram desenvolvidos na primeira fase do projeto.
+Os protótipos devem conter as seguintes jornadas: ​
+ 
+- Cadastro de Pessoa Física ​
+- Cadastro de Pessoa Jurídica ​
+- Cadastro de Professores ​
+- Cadastro de Fornecedores ​
+- Cadastro de Alunos
+ 
+OBS: Desenvolver um protótipo funcional usando ferramentas como  Miro ou Figma refletindo o que foi modelado anteriormente.
+ 
+2). Todos os integrantes do grupo precisam criar uma conta no  GitHub.
+O grupo precisará se reunir e definir qual dos integrantes do grupo ficará responsável pela criação do repositório para o projeto. Após a criação, todos os demais integrantes do grupo precisam ser cadastrados como contribuidor (a).
+Depois que o repositório já estiver criado, o grupo deverá se organizar para criar o arquivo de documentação (readme.md) e anexar todos os protótipos desenvolvidos, incluindo também na documentação os diagramas que foram criados na fase 1 do projeto em formato  Markdown.
+ 
+[ Opcional ]
+
+3). Desenvolver as interfaces que foram serão prototipadas,  utilizando HTML, CSS e conectando com o backend desenvolvido em  Java. Nesse backend, deverá conter as classes que foram modeladas na fase 1 do projeto. ​
+
 
 ## Diagrama de Casos de Uso
 ![Diagrama de casos de uso](https://github.com/user-attachments/assets/76d3acce-c060-43b1-99b6-554bae050fbc)
