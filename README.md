@@ -2,7 +2,7 @@
 <img width="1000" height="500" alt="Logo UniCAGVS 2" src="https://github.com/user-attachments/assets/729dcde0-d5ac-41a1-9ae0-5afa770d1edc" />
 Logo criado para a Universidade que consiste no desenho de um capelo, o nome da universidade e uma caneta sublinhando esse nome.
 
-## Índice
+## 🗃 Índice
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Diagramas de Casos de Uso](#diagrama-de-casos-de-uso)
 * [Descrição dos Cenários](#descrição-dos-cenários)
@@ -10,7 +10,7 @@ Logo criado para a Universidade que consiste no desenho de um capelo, o nome da 
 * [Protótipo de Interface](#protótipo-de-interface)
 * [Autores do Projeto](#autores-do-projeto)
 
-## Descrição do Projeto
+## 💻 Descrição do Projeto
 SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC
 CURSO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
@@ -69,10 +69,10 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 3). Desenvolver as interfaces que foram serão prototipadas,  utilizando HTML, CSS e conectando com o backend desenvolvido em  Java. Nesse backend, deverá conter as classes que foram modeladas na fase 1 do projeto. ​
 
 
-## Diagrama de Casos de Uso
+## 👩‍💻 Diagrama de Casos de Uso
 ![Diagrama de casos de uso](https://github.com/user-attachments/assets/76d3acce-c060-43b1-99b6-554bae050fbc)
 
-## Descrição dos Cenários
+## 🧑‍🎓 Descrição dos Cenários
 |Cenário|Cadastro Pessoa Física|
 |-------|----------------------|
 |Atores|Pessoa Física (Aluno, Professor ou outro)|
@@ -127,9 +127,9 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 |Fluxo Alternativo 2|1. Ator executa os passos 1 e 2.<br>2. O sistema informa que o usuário não é cadastrado.<br>3. O sistema redireciona o usuário para a página inicial.<br>4. O ator realiza seu cadastro.<br>5. São executados os passos de 1 a 4 do fluxo principal.|
 |Pós-condição|O sistema exibe as informações cadastrais do ator.|
 
-## Diagrama de Classes
+## 👨‍🏫 Diagrama de Classes
 ![Diagramadeclasse(8)](https://github.com/user-attachments/assets/f17d8731-9c6e-4dd4-897f-0c112b35b4b0)
 
-## Protótipo de Interface
+## 🖥 Protótipo de Interface
 
-## Autores do Projeto
+## ⌨ Autores do Projeto
