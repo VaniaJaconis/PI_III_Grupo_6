@@ -49,7 +49,7 @@ Enunciado:
 A segunda entrega do PI será a prototipação do que foi formalizado na primeira entrega.
 O protótipo deve refletir a modelagem realizada anteriormente, portanto,
  
-1). O grupo precisará desenvolver os protótipos da interface do sistema, de acordo com os diagramas de caso de uso que foram desenvolvidos na primeira fase do projeto.
+1) O grupo precisará desenvolver os protótipos da interface do sistema, de acordo com os diagramas de caso de uso que foram desenvolvidos na primeira fase do projeto.
 Os protótipos devem conter as seguintes jornadas: ​
  
 - Cadastro de Pessoa Física ​
@@ -58,15 +58,15 @@ Os protótipos devem conter as seguintes jornadas: ​
 - Cadastro de Fornecedores ​
 - Cadastro de Alunos
  
-OBS: Desenvolver um protótipo funcional usando ferramentas como  Miro ou Figma refletindo o que foi modelado anteriormente.
+OBS: Desenvolver um protótipo funcional usando ferramentas como Miro ou Figma refletindo o que foi modelado anteriormente.
  
-2). Todos os integrantes do grupo precisam criar uma conta no  GitHub.
+2) Todos os integrantes do grupo precisam criar uma conta no  GitHub.
 O grupo precisará se reunir e definir qual dos integrantes do grupo ficará responsável pela criação do repositório para o projeto. Após a criação, todos os demais integrantes do grupo precisam ser cadastrados como contribuidor (a).
 Depois que o repositório já estiver criado, o grupo deverá se organizar para criar o arquivo de documentação (readme.md) e anexar todos os protótipos desenvolvidos, incluindo também na documentação os diagramas que foram criados na fase 1 do projeto em formato  Markdown.
  
 [ Opcional ]
 
-3). Desenvolver as interfaces que foram serão prototipadas,  utilizando HTML, CSS e conectando com o backend desenvolvido em  Java. Nesse backend, deverá conter as classes que foram modeladas na fase 1 do projeto. ​
+3) Desenvolver as interfaces que foram serão prototipadas, utilizando HTML, CSS e conectando com o backend desenvolvido em  Java. Nesse backend, deverá conter as classes que foram modeladas na fase 1 do projeto. ​
 
 
 ## 👩‍💻 Diagrama de Casos de Uso
@@ -131,5 +131,17 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 ![Diagramadeclasse(8)](https://github.com/user-attachments/assets/f17d8731-9c6e-4dd4-897f-0c112b35b4b0)
 
 ## 🖥 Protótipo de Interface
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/s3AdvsE6S5gSFVs9WQnB7S/PI-Cadastro-Universidade?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 ## ⌨ Autores do Projeto
+| Ana Rita Fonseca Ferreira | Cleiton John Wichineski | [<img width="115" height="115" alt="Foto Git (3)" src="https://github.com/user-attachments/assets/a2514001-1245-4483-bcd3-6bd05ca07596" /><br><sub>Gustavo Nascimento Baeta Cancela</sub>](https://github.com/Gugao23's) | Samara Angelica da Silva | [<img width="115" height="115" alt="Foto Git (2)" src="https://github.com/user-attachments/assets/44e271f9-a644-44b6-bc6a-064dbc69da71" /><br><sub>Vânia Nunes Jaconis</sub>](https://github.com/VaniaJaconis) | 
+| :---: | :---: | :---: | :---: | :---: |
+
+
+
+
+
+
+
+
+
