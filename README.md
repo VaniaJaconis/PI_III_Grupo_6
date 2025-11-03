@@ -1,6 +1,6 @@
 <h1 align="center"> UniCAGVS - Cadastro 
 
-<h5 align="left"><br><img width="1000" height="500" alt="Logo UniCAGVS 2 (5)" src="https://github.com/user-attachments/assets/49a85088-2c58-4a77-bd59-8a98d4f317c4" />
+<h5 align="left"><br><img width="1000" height="500" alt="Logo UniCAGVS 2 (6)" src="https://github.com/user-attachments/assets/46edb903-ffc0-411b-8735-980c3bb182d4" />
 Logo criado para a Universidade que consiste no desenho de um capelo, o nome da universidade e uma caneta sublinhando esse nome.
 
 ## 🗃 Índice
