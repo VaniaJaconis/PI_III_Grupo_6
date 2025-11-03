@@ -3,7 +3,7 @@
 <h5 align="left"><br><img width="1000" height="500" alt="Logo UniCAGVS 2 (6)" src="https://github.com/user-attachments/assets/46edb903-ffc0-411b-8735-980c3bb182d4" />
 Logo criado para a Universidade que consiste no desenho de um capelo, o nome da universidade e uma caneta sublinhando esse nome.
 
-## 🗃 Índice
+## Índice
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Diagramas de Casos de Uso](#diagrama-de-casos-de-uso)
 * [Descrição dos Cenários](#descrição-dos-cenários)
@@ -11,7 +11,7 @@ Logo criado para a Universidade que consiste no desenho de um capelo, o nome da 
 * [Protótipo de Interface](#protótipo-de-interface)
 * [Autores do Projeto](#autores-do-projeto)
 
-## 💻 Descrição do Projeto
+## Descrição do Projeto
 SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC
 CURSO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
@@ -70,10 +70,10 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 3) Desenvolver as interfaces que foram serão prototipadas, utilizando HTML, CSS e conectando com o backend desenvolvido em  Java. Nesse backend, deverá conter as classes que foram modeladas na fase 1 do projeto. ​
 
 
-## 👩‍💻 Diagrama de Casos de Uso
+## Diagrama de Casos de Uso
 ![Diagrama de casos de uso](https://github.com/user-attachments/assets/76d3acce-c060-43b1-99b6-554bae050fbc)
 
-## 🧑‍🎓 Descrição dos Cenários
+## Descrição dos Cenários
 |Cenário|Cadastro Pessoa Física|
 |-------|----------------------|
 |Atores|Pessoa Física (Aluno, Professor ou outro)|
@@ -128,18 +128,13 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 |Fluxo Alternativo 2|1. Ator executa os passos 1 e 2.<br>2. O sistema informa que o usuário não é cadastrado.<br>3. O sistema redireciona o usuário para a página inicial.<br>4. O ator realiza seu cadastro.<br>5. São executados os passos de 1 a 4 do fluxo principal.|
 |Pós-condição|O sistema exibe as informações cadastrais do ator.|
 
-## 👨‍🏫 Diagrama de Classes
+## Diagrama de Classes
 ![Diagramadeclasse(8)](https://github.com/user-attachments/assets/f17d8731-9c6e-4dd4-897f-0c112b35b4b0)
 
-## 🖥 Protótipo de Interface
+## Protótipo de Interface
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/s3AdvsE6S5gSFVs9WQnB7S/PI-Cadastro-Universidade?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-## ⌨ Autores do Projeto
+## Autores do Projeto
 | [<img width="115" height="115" alt="Foto Git (6)" src="https://github.com/user-attachments/assets/45fc21ae-4c3e-44cc-983c-708d24371523" /><br><sub>Ana Rita Fonseca Ferreira</sub>](https://github.com/AnaFonsecaGit) | [<img width="115" height="115" alt="Foto Git (7)" src="https://github.com/user-attachments/assets/617f8d69-7cb1-466e-a920-45542f444174" /><br><sub>Cleiton John Wichineski</sub>](https://github.com/cleitonjwichineski-gif) | [<img width="115" height="115" alt="Foto Git (9)" src="https://github.com/user-attachments/assets/f07c9fe3-9ade-40bf-9a3e-1395c64e06c1" /><br><sub>Gustavo Nascimento Baeta Cancela</sub>](https://github.com/Gugao23) | [<img width="115" height="115" alt="Foto Git (8)" src="https://github.com/user-attachments/assets/43768c92-6580-484e-9ff2-14d75d4b82d0" /><br><sub>Samara Angelica da Silva</sub>](https://github.com/SamAngelica) | [<img width="115" height="115" alt="Foto Git (10)" src="https://github.com/user-attachments/assets/5f481bdf-d0fb-4017-b1c7-e8582bf082c0" /><br><sub>Vânia Nunes Jaconis</sub>](https://github.com/VaniaJaconis) | 
 | :---: | :---: | :---: | :---: | :---: |
-
-
-
-
-
 
