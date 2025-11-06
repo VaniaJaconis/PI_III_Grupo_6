@@ -9,6 +9,7 @@ Logo criado para a Universidade que consiste no desenho de um capelo, o nome da 
 * [Descrição dos Cenários](#descrição-dos-cenários)
 * [Diagramas de Classes](#diagrama-de-classes)
 * [Protótipo de Interface](#protótipo-de-interface)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autores do Projeto](#autores-do-projeto)
 
 ## Descrição do Projeto
@@ -16,6 +17,7 @@ SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC
 CURSO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
 PROJETO INTEGRADOR III: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+
 Professor Anderson Clayton Garcia Lopes
 
 TRABALHO PARA APROVAÇÃO EM DISCIPLINA
@@ -31,11 +33,11 @@ Essa modelagem deve ser feita utilizando os conhecimentos sobre UML que foram ad
 Os diagramas devem representar o cadastro de diferentes tipos de pessoas que vão interagir com esse sistema:
 
 1) O grupo precisará desenvolver um diagrama de caso de uso que represente os seguintes cenário (1 página):
-Cadastro de Pessoa Física
-Cadastro de Pessoa Jurídica
-Cadastro de Professores
-Cadastro de Fornecedores
-Cadastro de Alunos
+- Cadastro de Pessoa Física
+- Cadastro de Pessoa Jurídica
+- Cadastro de Professores
+- Cadastro de Fornecedores
+- Cadastro de Alunos
 
 
 2) O grupo deve elaborar a descrição dos cenários dos casos de uso construídos, levando em consideração um cenário principal, dois cenários alternativos, pré-condição e pós-condição (até 5 páginas).
@@ -52,7 +54,6 @@ O protótipo deve refletir a modelagem realizada anteriormente, portanto,
  
 1) O grupo precisará desenvolver os protótipos da interface do sistema, de acordo com os diagramas de caso de uso que foram desenvolvidos na primeira fase do projeto.
 Os protótipos devem conter as seguintes jornadas: ​
- 
 - Cadastro de Pessoa Física ​
 - Cadastro de Pessoa Jurídica ​
 - Cadastro de Professores ​
@@ -61,9 +62,15 @@ Os protótipos devem conter as seguintes jornadas: ​
  
 OBS: Desenvolver um protótipo funcional usando ferramentas como Miro ou Figma refletindo o que foi modelado anteriormente.
  
-2) Todos os integrantes do grupo precisam criar uma conta no  GitHub.
+2) Desenvolver um modelo de dados (com scripts em SQL) que atenda o armazenamento de dados do protótipo.
+
+Enviar o DDL e DML
+- DDL (Linguagem de Definição de Dados) é a parte da linguagem SQL usada para definir e gerenciar a estrutura de um banco de dados. Ela cria, modifica e exclui objetos como tabelas, índices e esquemas. Os comandos DDL incluem CREATE (criar), ALTER (alterar) e DROP (excluir).
+- DML (Linguagem de Manipulação de Dados) é um conjunto de comandos SQL usados para interagir com os dados dentro de tabelas de banco de dados, permitindo inserir, atualizar, excluir e consultar registros. Os principais comandos DML são INSERT (para adicionar novos dados), UPDATE (para modificar dados existentes), DELETE (para remover registros) e SELECT (para recuperar dados).
+
+Todos os integrantes do grupo precisam criar uma conta no  GitHub.
 O grupo precisará se reunir e definir qual dos integrantes do grupo ficará responsável pela criação do repositório para o projeto. Após a criação, todos os demais integrantes do grupo precisam ser cadastrados como contribuidor (a).
-Depois que o repositório já estiver criado, o grupo deverá se organizar para criar o arquivo de documentação (readme.md) e anexar todos os protótipos desenvolvidos, incluindo também na documentação os diagramas que foram criados na fase 1 do projeto em formato  Markdown.
+Depois que o repositório já estiver criado, o grupo deverá se organizar para criar o arquivo de documentação (readme.md) e anexar todos os protótipos desenvolvidos, incluindo também na documentação os diagramas que foram criados na fase 1 do projeto em formato Markdown.
  
 [ Opcional ]
 
@@ -132,10 +139,16 @@ Depois que o repositório já estiver criado, o grupo deverá se organizar para 
 ![Diagramadeclasse(8)](https://github.com/user-attachments/assets/f17d8731-9c6e-4dd4-897f-0c112b35b4b0)
 
 ## Protótipo de Interface
-Clique no logo para acessar o arquivo do protótipo completo
+Clique para acessar o arquivo do protótipo completo
 
-[<img width="229" height="220" alt="Logo Figma" src="https://github.com/user-attachments/assets/7466c26f-671f-4842-bdb3-5c54f3053c28" />](https://embed.figma.com/design/s3AdvsE6S5gSFVs9WQnB7S/PI-Cadastro-Universidade?node-id=0-1&embed-host=share)
+|[<img width="229" height="220" alt="Logo Figma" src="https://github.com/user-attachments/assets/7466c26f-671f-4842-bdb3-5c54f3053c28" /><br><sub>Protótipo</sub>](https://embed.figma.com/design/s3AdvsE6S5gSFVs9WQnB7S/PI-Cadastro-Universidade?node-id=0-1&embed-host=share)|
+|---|
 
+## Tecnologias Utilizadas
+- Lucid
+- Figma
+- MySQLWorkbench
+  
 ## Autores do Projeto
 | [<img width="115" height="115" alt="Foto Git (6)" src="https://github.com/user-attachments/assets/45fc21ae-4c3e-44cc-983c-708d24371523" /><br><sub>Ana Rita Fonseca Ferreira</sub>](https://github.com/AnaFonsecaGit) | [<img width="115" height="115" alt="Foto Git (7)" src="https://github.com/user-attachments/assets/617f8d69-7cb1-466e-a920-45542f444174" /><br><sub>Cleiton John Wichineski</sub>](https://github.com/cleitonjwichineski-gif) | [<img width="115" height="115" alt="Foto Git (9)" src="https://github.com/user-attachments/assets/f07c9fe3-9ade-40bf-9a3e-1395c64e06c1" /><br><sub>Gustavo Nascimento Baeta Cancela</sub>](https://github.com/Gugao23) | [<img width="115" height="115" alt="Foto Git (8)" src="https://github.com/user-attachments/assets/43768c92-6580-484e-9ff2-14d75d4b82d0" /><br><sub>Samara Angelica da Silva</sub>](https://github.com/SamAngelica) | [<img width="115" height="115" alt="Foto Git (10)" src="https://github.com/user-attachments/assets/5f481bdf-d0fb-4017-b1c7-e8582bf082c0" /><br><sub>Vânia Nunes Jaconis</sub>](https://github.com/VaniaJaconis) | 
 | :---: | :---: | :---: | :---: | :---: |
