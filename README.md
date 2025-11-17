@@ -9,6 +9,7 @@ Logo criado para a Universidade que consiste no desenho de um capelo, o nome da 
 * [Descrição dos Cenários](#descrição-dos-cenários)
 * [Diagrama de Classes](#diagrama-de-classes)
 * [Protótipo de Interface](#protótipo-de-interface)
+* [Banco de Dados](#banco-de-dados)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autores do Projeto](#autores-do-projeto)
 
@@ -87,15 +88,18 @@ A descrição dos cenários foi baseada no diagrama de casos de uso e também fa
 O diagrama de classes também é parte integrante da modelagem UML desenvolvida para este projeto. Para criá-lo utilizamos a plataforma Miro e ele poderá ser encontrado na pasta Diagramas, arquivo [Diagrama_de_classes.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Diagramas/Diagrama_de_classes.md) deste repositório.
 
 ## Protótipo de Interface
-O protótipo de interface foi criado com base nos itens da modelagem UML entregues na primeira etapa do projeto, para desenvolvê-lo utilizamos a plataforma Figma. Este protótipo poderá ser visualizado no Figma, o link está disponível na pasta Protótipos, arquivo [Protótipo_Figma.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Figma.md) ou diretamente na pasta Protótipos, arquivo [Protótipos/Protótipo_imagens.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipo_imagens.md) deste repositório.
+O protótipo de interface foi criado com base nos itens da modelagem UML entregues na primeira etapa do projeto, para desenvolvê-lo utilizamos a plataforma Figma. Este protótipo poderá ser visualizado no Figma, o link está disponível na pasta Protótipos, arquivo [Protótipo_Figma.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Figma.md) ou diretamente na pasta Protótipos, arquivo [Protótipo_imagens.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipo_imagens.md) deste repositório.
+
+## Banco de Dados
+O banco de dados foi projetado com base na modelagem UML entregue na primeira etapa do projeto. O diagrama do banco de dados poderá ser acessado na pasta Banco_de_dados desde repositório, no arquivo [Diagrama_BD.md](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Banco_de_dados/Diagrama_BD.md). Os scripts encontram-se na mesma pasta, porém no arquivo [Scripts_SQL.sql](https://github.com/VaniaJaconis/PI_III_Grupo_6/blob/main/Banco_de_dados/Scripts_SQL.sql).
 
 ## Tecnologias Utilizadas
 - Lucid
 - Miro
 - Figma
 - MySQLWorkbench
+- SQL
   
 ## Autores do Projeto
 | [<img width="115" height="115" alt="Foto Git (6)" src="https://github.com/user-attachments/assets/45fc21ae-4c3e-44cc-983c-708d24371523" /><br><sub>Ana Rita Fonseca Ferreira</sub>](https://github.com/AnaFonsecaGit) | [<img width="115" height="115" alt="Foto Git (7)" src="https://github.com/user-attachments/assets/617f8d69-7cb1-466e-a920-45542f444174" /><br><sub>Cleiton John Wichineski</sub>](https://github.com/cleitonjwichineski-gif) | [<img width="115" height="115" alt="Foto Git (9)" src="https://github.com/user-attachments/assets/f07c9fe3-9ade-40bf-9a3e-1395c64e06c1" /><br><sub>Gustavo Nascimento Baeta Cancela</sub>](https://github.com/Gugao23) | [<img width="115" height="115" alt="Foto Git (8)" src="https://github.com/user-attachments/assets/43768c92-6580-484e-9ff2-14d75d4b82d0" /><br><sub>Samara Angelica da Silva</sub>](https://github.com/SamAngelica) | [<img width="115" height="115" alt="Foto Git (10)" src="https://github.com/user-attachments/assets/5f481bdf-d0fb-4017-b1c7-e8582bf082c0" /><br><sub>Vânia Nunes Jaconis</sub>](https://github.com/VaniaJaconis) | 
 | :---: | :---: | :---: | :---: | :---: |
-
