@@ -5,14 +5,15 @@ CREATE TABLE Fornecedor (
    razao_social VARCHAR(150),
    endereco VARCHAR(250),
    contato VARCHAR(50)
+   FOREIGN KEY (NomeUniversidade) REFERENCES
+Universidade(NomeUniversidade)
 );
 
 CREATE TABLE Universidade (
    NomeUniversidade VARCHAR(150) PRIMARY KEY,
    cnpj BIGINT,
    endereco VARCHAR(250),
-   FOREIGN KEY (cnpj_fornecedor) REFERENCES Fornecedor(cnpj)
-);
+ );
 
 CREATE TABLE PessoaFisica (
    cpf BIGINT PRIMARY KEY,
